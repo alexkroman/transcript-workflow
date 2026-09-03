@@ -1,0 +1,6 @@
+{
+  "name": "aai-studio-workspace",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
